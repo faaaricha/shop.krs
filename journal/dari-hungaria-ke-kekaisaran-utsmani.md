@@ -1,7 +1,7 @@
 ---
-date: 2020-08-16
+date: 2020-08-15
 title: 'Dari Hungaria ke Kekaisaran Utsmani: Terbitan Kedai Resensi Surabaya'
-author: Nichlas W. Andersen
+author: Kedai Resensi Surabaya
 excerpt: Ini adalah dua buku terbitan perdana Kedai Resensi Surabaya!
 
 ---
