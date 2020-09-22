@@ -1,25 +1,23 @@
 ---
-date: 2019-06-07
-title: Gridsome with Forestry CMS
+date: 2020-09-21
+title: 'Sejarah Dinasti Kabilah Emas: Terbitan Terbaru dari KRS'
 author: Nichlas W. Andersen
-excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick
-  editing interface.
+excerpt: Buku ini akan mengulas mengenai awal mula dari Kabilah Emas hingga keruntuhannya
+  dan beberapa ke-khan-an yang merupakan “anak” dari Kabilah Emas.
 
 ---
-#### Use Forestry as a CMS for Gridsome
+Untuk ketiga kalinya, Kedai Resensi Surabaya kembali menerbitkan buku bertemakan sejarah! Kali ini, KRS mengambil kajian dari seorang sarjana Sejarah dan Kebudayaan Islam, [Ari Nirwana](https://kedairesensisurabaya.com/tag/ari-nirwana) mengenai Kabilah Emas (_Golden Horde_). Dinasti Kabilah Emas yang banyak di antara Khan-nya beragama Islam ini jarang mendapat perhatian khusus di Indonesia. Oleh karenanya, penerbitan buku ini turut menjadi pengisi relung kajian yang masih perlu terus diramaikan tersebut.
 
-[Forestry](https://forestry.io) is a git-based headless CMS that allows editorial teams to work on Jamstack sites.
+### Sejarah Dinasti Kabilah Emas Di Eropa Timur _dan Pengaruhnya terhadap Dunia Islam (1226-1502 M)_
 
-It comes with a slick user interface that empowers editors to edit CommmonMark, YAML, and JSON files.
+Kekaisaran Mongol dikenal sebagai penghancur dinasti Abbasiyah dan peradaban Muslim saat itu. Namun, ternyata ada keturunan Jenghis Khan yang masuk ke dalam agama Islam, terutama dari Golden Horde (Kabilah Emas) di wilayah Rusia dan Eropa Timur. Kabilah Emas ini muncul dari anak pertama Jenghis Khan, Jochi.
 
-Forestry UI was designed by **Nichlas W. Andersen**.
+Masih banyak sejarah peradaban Islam yang belum dikaji secara rinci dalam bahasa Indonesia. Seperti halnya Kabilah Emas ini, di mana dua khan-nya, Berke dan Uzbeg turut membantu membangun peradaban Islam yang sempat luluh lantak karena serangan dari sesama bangsanya, Hulagu. Berke Khan adalah khan pertama yang secara terang-terangan masuk ke dalam Islam. Pada zaman Uzbek Khan ini sampai pada puncak peradaban Islam di daerah kekuasaan Mongol.
 
-You can import this starter to Forestry and start editing and creating posts or projects right away.
+Kabilah Emas memiliki wilayah kekuasaan dengan proporsi yang sangat luas dan pada akhirnya melahirkan wilayah-wilayah Muslim di Rusia seperti Krimea, Kazan, dan Astrakhan. Buku ini akan mengulas mengenai awal mula dari Kabilah Emas hingga keruntuhannya dan beberapa ke-khan-an yang merupakan “anak” dari Kabilah Emas. Ke-khan-an ini juga yang turut berkontribusi dalam penyebaran Islam, baik di antara masyarakat Mongol, juga di wilayah Rusia.
 
-Forestry also comes with instant previews, for you to preview your content before publishing.
+***
 
-When you save content in **Forestry**, it's committed back to your Git repository. If you link your repository to a service like **Netlify** or **Vercel**, on every push, your site will be deployed over to a CDN network.
+Kedai Resensi Surabaya juga membuka kesempatan untuk menjadi **_Drop shipper_** dan **_Reseller_** buku ini maupun [buku terbitan KRS](https://kedairesensisurabaya.com/category/buku-krs) lainnya. Ada diskon khusus bagi _drop shipper_ dan _reseller_. Hubungi [WhatsApp KRS](wa.me/6282153777192 "WA KRS") untuk info selengkapnya.
 
-Enjoy the best development and user experience! 🚀
-
-![](/uploads/ian-dooley-281897-unsplash.jpg)
+Selain opsi pembelian via website, pembelian buku-buku terbitan KRS juga bisa dilakukan via [**Shopee**](https://shopee.co.id/kbmurba/) / [**Bukalapak**](https://bukalapak.com/kbmurba) / [**Tokopedia**](https://tokopedia.com/kbmurba) KB. MURBA.
