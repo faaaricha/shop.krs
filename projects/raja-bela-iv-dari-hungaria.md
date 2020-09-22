@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/krs-1-fc.jpg"
 title: Raja Béla IV dari Hungaria
-date: 2019-01-03
+date: 2020-07-20
 categories:
 - Sejarah
 - Abad Pertengahan
@@ -9,6 +9,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
+
 # Deskripsi
 
 Abad pertengahan menjadi salah satu abad yang kelam di Eropa. Terkadang disebut sebagai _abad kegelapan_. Terlepas dari namanya yang terlihat mengerikan, bukan berarti tidak ada peristiwa atau figur yang menarik dari abad ini.
@@ -22,26 +23,18 @@ Seperti **Raja Béla IV dari Hungaria** ini adalah raja yang menghadapi invasi M
 #### Stok: 5
 
 | **Spesifikasi** | Detail |
-
 | ---- | ----- |
-
 | **Judul Buku** | Raja Béla IV dari Hungaria: Biografi Politik Raja Eropa Timur Abad Pertengahan sebelum Invasi Pasukan Mongol |
-
 | **Penulis** | Pongrácz Sennyey |
-
 | **Penerjemah** | Reza Maulana Hikam |
-
 | **Penerbit** | Kedai Resensi Surabaya |
-
 | **Tebal Buku** | vii+100 halaman |
-
 | **Tahun Terbit** | Juli 2020 |
-
 | **ISBN** | 978-602-417-270-1 |
-
 | **SKU** | KRS-001 |
 
 ## Pembelian
+### Rp60000
 
 #### [Shopee →](https://shopee.co.id/kbmurba "Shopee")
 
