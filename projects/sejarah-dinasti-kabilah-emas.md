@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/ari-nirwana-sejarah-dinasti-kabilah-emas-fc.jpg"
 title: Sejarah Dinasti Kabilah Emas
-date: 2019-01-04
+date: 2020-09-15
 categories:
 - Sejarah
 - Islam
@@ -22,26 +22,18 @@ Kabilah Emas memiliki wilayah kekuasaan dengan proporsi yang sangat luas dan pad
 #### Stok: 36
 
 | **Spesifikasi** | Detail |
-
 | ---- | ----- |
-
 | **Judul Buku** | Sejarah Dinasti Kabilah Emas di Eropa Timur dan Pengaruhnya terhadap Dunia Islam (1226-1502 M) |
-
 | **Penulis** | Ari Nirwana |
-
 | **Penyunting** | Reza Maulana Hikam |
-
 | **Penerbit** | Kedai Resensi Surabaya |
-
 | **Tebal Buku** | v+92 halaman |
-
 | **Tahun Terbit** | September 2020 |
-
 | **ISBN** | 978-602-417-279-4 |
-
 | **SKU** | KRS-003 |
 
 ## Pembelian
+### Rp55000
 
 #### [Shopee →](https://shopee.co.id/Sejarah-Dinasti-Kabilah-Emas-Ari-Nirwana-i.207062002.6051053944 "Shopee")
 
