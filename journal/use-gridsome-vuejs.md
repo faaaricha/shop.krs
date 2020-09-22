@@ -20,3 +20,7 @@ Kekaisaran Utsmani adalah salah satu kekaisaran Muslim terbesar di dunia. Wilaya
 Buku ini berisikan sepak terjang perluasan wilayah dari sebuah kekaisaran yang ekspansionis yang mampu menaklukkan Konstantinopel. Dimulai dengan meninggalnya Utsman I pada tahun 1326 hingga perjanjian Karlowitz pada tahun 1699 yang menjadi akhir dari ekspansi kekaisaran ini, buku ini akan mengulas satu per satu ekspedisi dan kampanye militer yang dilancarkan oleh Kekaisaran Utsmani. Ditulis oleh sejarawan militer ternama, buku ini akan menjadi sumbangan bagi khazanah mengenai Kekaisaran Utsmani.
 
 ***
+
+Kedai Resensi Surabaya juga membuka kesempatan untuk menjadi **_Drop shipper_** dan **_Reseller_** buku ini maupun [buku terbitan KRS](https://kedairesensisurabaya.com/category/buku-krs) lainnya. Ada diskon khusus bagi _drop shipper_ dan _reseller_. Hubungi [WhatsApp KRS](wa.me/6282153777192 "WA KRS") untuk info selengkapnya.
+
+Selain opsi pembelian via website, pembelian buku-buku terbitan KRS juga bisa dilakukan via [**Shopee**](https://shopee.co.id/kbmurba/) / [**Bukalapak**](https://bukalapak.com/kbmurba) / [**Tokopedia**](https://tokopedia.com/kbmurba) KB. MURBA.
