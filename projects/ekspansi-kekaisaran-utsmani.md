@@ -1,7 +1,7 @@
 ---
 thumbnail: "/uploads/front-cover-st-krs.jpg"
 title: Ekspansi Kekaisaran Utsmani 1326-1699
-date: 2019-02-06
+date: 2020-08-15
 categories:
 - Sejarah
 - Islam
@@ -20,27 +20,16 @@ Buku ini berisikan sepak terjang perluasan wilayah dari sebuah kekaisaran yang e
 ## Spesifikasi
 
 **Stok: 0**
-
-| **Spesifikasi** | Detail |
-
-| ---- | ----- |
-
-| **Judul Buku** | Ekspansi Kekaisaran Utsmani 1326-1699 |
-
-| **Penulis** | Stephen Turnbull |
-
-| **Penerjemah** | Reza Maulana Hikam |
-
-| **Penyunting** | Edwin Fatahuddin Ariyadi Putra |
-
-| **Penerbit** | Kedai Resensi Surabaya |
-
-| **Tebal Buku** | iii+139 halaman |
-
-| **Tahun Terbit** | Agustus 2020 |
-
-| **ISBN** | 978-602-417-275-6 |
-
+| **Spesifikasi** | Detail  |
+| ----  | ----- |
+| **Judul Buku**  | Ekspansi Kekaisaran Utsmani 1326-1699 |
+| **Penulis** | Stephen Turnbull  |
+| **Penerjemah**  | Reza Maulana Hikam  |
+| **Penyunting**  | Edwin Fatahuddin Ariyadi Putra  |
+| **Penerbit**  | Kedai Resensi Surabaya  |
+| **Tebal Buku**  | iii+139 halaman |
+| **Tahun Terbit**  | Agustus 2020  |
+| **ISBN**  | 978-602-417-275-6 |
 | **SKU** | KRS-002.2 |
 
 ## Pembelian
