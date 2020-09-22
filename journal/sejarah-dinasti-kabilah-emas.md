@@ -1,7 +1,7 @@
 ---
-date: 2020-09-21
+date: 2020-09-20
 title: 'Sejarah Dinasti Kabilah Emas: Terbitan Terbaru dari KRS'
-author: Nichlas W. Andersen
+author: Kedai Resensi Surabaya
 excerpt: Buku ini akan mengulas mengenai awal mula dari Kabilah Emas hingga keruntuhannya
   dan beberapa ke-khan-an yang merupakan “anak” dari Kabilah Emas.
 
