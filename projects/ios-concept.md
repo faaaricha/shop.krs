@@ -21,6 +21,10 @@ Seperti **Raja Béla IV dari Hungaria** ini adalah raja yang menghadapi invasi M
 
 #### Stok: 5
 
+| **Spesifikasi** | Detail |
+
+| ---- | ----- |
+
 | **Judul Buku** | Raja Béla IV dari Hungaria: Biografi Politik Raja Eropa Timur Abad Pertengahan sebelum Invasi Pasukan Mongol |
 
 | **Penulis** | Pongrácz Sennyey |
