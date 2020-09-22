@@ -15,9 +15,15 @@ Masih banyak sejarah peradaban Islam yang belum dikaji secara rinci dalam bahasa
 
 Kabilah Emas memiliki wilayah kekuasaan dengan proporsi yang sangat luas dan pada akhirnya melahirkan wilayah-wilayah Muslim di Rusia seperti Krimea, Kazan, dan Astrakhan. Buku ini akan mengulas mengenai awal mula dari Kabilah Emas hingga keruntuhannya dan beberapa ke-khan-an yang merupakan “anak” dari Kabilah Emas. Ke-khan-an ini juga yang turut berkontribusi dalam penyebaran Islam, baik di antara masyarakat Mongol, juga di wilayah Rusia.
 
+![](/uploads/ari-nirwana-sejarah-dinasti-kabilah-emas-fc.jpg)![](/uploads/ari-nirwana-sejarah-dinasti-kabilah-emas-bc.jpg)
+
 ## Spesifikasi
 
 #### Stok: 36
+
+| **Spesifikasi** | Detail |
+
+| ---- | ----- |
 
 | **Judul Buku** | Sejarah Dinasti Kabilah Emas di Eropa Timur dan Pengaruhnya terhadap Dunia Islam (1226-1502 M) |
 
@@ -52,5 +58,3 @@ Kabilah Emas memiliki wilayah kekuasaan dengan proporsi yang sangat luas dan pad
 ## Tentang Penulis
 
 **Ari Nirwana** adalah alumni Jurusan Sejarah dan Kebudayaan Islam, Universitas Islam Negeri Sunan Ampel, Surabaya. Sekarang beraktivitas sebagai pelukis dan masih _nyantri_ di Ma’had TeeBee, Surabaya.
-
-![](/uploads/ari-nirwana-sejarah-dinasti-kabilah-emas-fc.jpg)![](/uploads/ari-nirwana-sejarah-dinasti-kabilah-emas-bc.jpg)
