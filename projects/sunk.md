@@ -15,9 +15,15 @@ Kekaisaran Utsmani adalah salah satu kekaisaran Muslim terbesar di dunia. Wilaya
 
 Buku ini berisikan sepak terjang perluasan wilayah dari sebuah kekaisaran yang ekspansionis yang mampu menaklukkan Konstantinopel. Dimulai dengan meninggalnya Utsman I pada tahun 1326 hingga perjanjian Karlowitz pada tahun 1699 yang menjadi akhir dari ekspansi kekaisaran ini, buku ini akan mengulas satu per satu ekspedisi dan kampanye militer yang dilancarkan oleh Kekaisaran Utsmani. Ditulis oleh sejarawan militer ternama, buku ini akan menjadi sumbangan bagi khazanah mengenai Kekaisaran Utsmani.
 
+![](/uploads/front-cover-st-krs.jpg)![](/uploads/back-cover-st-krs.jpg)
+
 ## Spesifikasi
 
 **Stok: 0**
+
+| **Spesifikasi** | Detail |
+
+| ---- | ----- |
 
 | **Judul Buku** | Ekspansi Kekaisaran Utsmani 1326-1699 |
 
@@ -50,5 +56,3 @@ Buku ini berisikan sepak terjang perluasan wilayah dari sebuah kekaisaran yang e
 ## Tentang Penulis
 
 **Stephen Turnbull** adalah Dosen di University of Leeds, Research Associate di School of Oriental and African Studies (SOAS).
-
-![](/uploads/front-cover-st-krs.jpg)![](/uploads/back-cover-st-krs.jpg)
