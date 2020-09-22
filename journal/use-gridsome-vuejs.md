@@ -5,6 +5,8 @@ author: Nichlas W. Andersen
 excerpt: Ini adalah dua buku terbitan perdana Kedai Resensi Surabaya!
 
 ---
+![](/uploads/krs-buku-perdana.jpg)
+
 Di bulan Juli dan Agustus ini, Kedai Resensi Surabaya menerbitkan dua buku sejarah dari seorang raja yang menjadi pendiri kedua Hungaria dan sebuah imperium yang membawa peradaban Islam ke penjuru Eropa, Asia Minor, hingga Afrika. Ini adalah dua terbitan perdana dari Kedai Resensi Surabaya yang mengangkat sejarah (berbeda) dari daratan Eropa.
 
 ## Raja Béla IV dari Hungaria: Biografi Politik Raja Eropa Timur Abad Pertengahan sebelum Invasi Pasukan Mongol
@@ -21,6 +23,6 @@ Buku ini berisikan sepak terjang perluasan wilayah dari sebuah kekaisaran yang e
 
 ***
 
-Kedai Resensi Surabaya juga membuka kesempatan untuk menjadi **_Drop shipper_** dan **_Reseller_** buku ini maupun [buku terbitan KRS](https://kedairesensisurabaya.com/category/buku-krs) lainnya. Ada diskon khusus bagi _drop shipper_ dan _reseller_. Hubungi [WhatsApp KRS](wa.me/6282153777192 "WA KRS") untuk info selengkapnya.
+Kedai Resensi Surabaya juga membuka kesempatan untuk menjadi **_Drop shipper_** dan **_Reseller_** buku ini maupun [buku terbitan KRS](https://kedairesensisurabaya.com/category/buku-krs) lainnya. Ada diskon khusus bagi _drop shipper_ dan _reseller_. Hubungi [WhatsApp KRS](https://wa.me/6282153777192 "WA KRS") untuk info selengkapnya.
 
 Selain opsi pembelian via website, pembelian buku-buku terbitan KRS juga bisa dilakukan via [**Shopee**](https://shopee.co.id/kbmurba/) / [**Bukalapak**](https://bukalapak.com/kbmurba) / [**Tokopedia**](https://tokopedia.com/kbmurba) KB. MURBA.
