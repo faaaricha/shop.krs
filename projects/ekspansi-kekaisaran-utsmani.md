@@ -33,6 +33,7 @@ Buku ini berisikan sepak terjang perluasan wilayah dari sebuah kekaisaran yang e
 | **SKU** | KRS-002.2 |
 
 ## Pembelian
+### Rp70000
 
 #### [Shopee →](https://shopee.co.id/kbmurba "Shopee")
 
