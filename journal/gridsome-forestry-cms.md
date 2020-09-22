@@ -20,6 +20,6 @@ Kabilah Emas memiliki wilayah kekuasaan dengan proporsi yang sangat luas dan pad
 
 ***
 
-Kedai Resensi Surabaya juga membuka kesempatan untuk menjadi **_Drop shipper_** dan **_Reseller_** buku ini maupun [buku terbitan KRS](https://kedairesensisurabaya.com/category/buku-krs) lainnya. Ada diskon khusus bagi _drop shipper_ dan _reseller_. Hubungi [WhatsApp KRS](https://wa.me/6282153777192 "WA KRS") untuk info selengkapnya.
+Kedai Resensi Surabaya juga membuka kesempatan untuk menjadi **_Drop shipper_** dan **_Reseller_** buku ini maupun [buku terbitan KRS](https://kedairesensisurabaya.com/category/buku-krs) lainnya. Ada diskon khusus bagi _drop shipper_ dan _reseller_. Hubungi [WhatsApp KRS](https://https://wa.me/6282153777192 "WA KRS") untuk info selengkapnya.
 
 Selain opsi pembelian via website, pembelian buku-buku terbitan KRS juga bisa dilakukan via [**Shopee**](https://shopee.co.id/kbmurba/) / [**Bukalapak**](https://bukalapak.com/kbmurba) / [**Tokopedia**](https://tokopedia.com/kbmurba) KB. MURBA.
