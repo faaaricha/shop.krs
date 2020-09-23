@@ -30,6 +30,13 @@ module.exports = {
           externalLinksTarget: "_blank",
           externalLinksRel: ["nofollow", "noopener", "noreferrer"]
         }
+    {
+     use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-114502223-3',
+        enabled: true,
+        debug: true
+        }        
       }
     }
   ],
