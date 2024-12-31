@@ -2,7 +2,7 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Shop — Kedai Resensi Surabaya",
+  siteName: "Catalogue — Kedai Resensi Surabaya",
   siteUrl: `https://shopkrs.netlify.app`,
   host: "0.0.0.0",
   titleTemplate: "%s",
